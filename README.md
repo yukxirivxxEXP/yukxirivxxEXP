@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![KrivosheevDev](https://github.com/alyoshaEXP/alyoshaEXP/assets/150704741/4cceedc9-60d2-4e5e-9357-16ef6d47c579)
+![KrivosheevDev](https://github.com/yukxirivxxEXP/yukxirivxxEXP/assets/150704741/4cceedc9-60d2-4e5e-9357-16ef6d47c579)
 
 ```javascript
 const AlyoshaEXP = {
